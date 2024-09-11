@@ -22,7 +22,6 @@ To get a local copy of the project up and running, follow these steps:
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/rajith89/topologicalSort.git
 cd topologicalSort
 
@@ -43,4 +42,3 @@ java -jar target/topologicalsort-0.0.1-SNAPSHOT.jar
 ### 4. Running Tests
 
 mvn test
-
